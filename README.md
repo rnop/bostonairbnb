@@ -1,4 +1,6 @@
 ## Boston Airbnb
+Blog Post: https://ronnienop.data.blog/portfolio/airbnb-boston-analysis/
+
 ### Motivation
 
 <p>Airbnb has given the opportunity for millions of people to connect all over the world. One of the core values of Airbnb is to make people feel that they could "belong anywhere." Airbnb gives people the ability to travel all over the world and bring people from different places, cultures, and backgrounds together so that they can experience the world in a place that isn't necessary their home, but feels like home.</p>
